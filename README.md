@@ -8,21 +8,21 @@ The majority of game AI research has concentrated on video games and classical b
 ## Environment: Rake&Roll
 An example of the game can be seen in the screenshot below.
 
-![rollandrake](https://github.com/giannpelle/roll-and-rake/tree/main/img/rake-and-roll.png)
+![rollandrake](https://github.com/giannpelle/roll-and-rake/blob/main/img/rake-and-roll.png)
 
 # Techniques developed
-The implementation of the Monte Carlo Policy Gradient algorithm (REINFORCE) is available [here](https://github.com/giannpelle/roll-and-rake/tree/main/train_reinforce_v0_zero_two.py).
-The implementation of the DoubleDuelingDeepQNetwork with prioritized experience replay (PerD3QN) is available [here](https://github.com/giannpelle/roll-and-rake/tree/main/DuelingPerDoubleDQN_agent_v0_zero_two.py).
+The implementation of the Monte Carlo Policy Gradient algorithm (REINFORCE) is available [here](https://github.com/giannpelle/roll-and-rake/blob/main/train_reinforce_v0_zero_two.py).
+The implementation of the DoubleDuelingDeepQNetwork with prioritized experience replay (PerD3QN) is available [here](https://github.com/giannpelle/roll-and-rake/blob/main/DuelingPerDoubleDQN_agent_v0_zero_two.py).
 
 ## Results
 ### REINFORCE (gamma 0.2) agent on Rake&Roll-Complete
-![results](https://github.com/giannpelle/roll-and-rake/tree/main/img/reinforce_v0_two.png)
+![results](https://github.com/giannpelle/roll-and-rake/blob/main/img/reinforce_v0_two.png)
 
 ### PerD3QN (gamma 0.2) agent on Rake&Roll-Complete
-![results](https://github.com/giannpelle/roll-and-rake/tree/main/img/d3qn_v0_two.png)
+![results](https://github.com/giannpelle/roll-and-rake/blob/main/img/d3qn_v0_two.png)
 
 ### Agents comparison on Rake&Roll-Complete
-![results](https://github.com/giannpelle/roll-and-rake/tree/main/img/env_v0_run.png)
+![results](https://github.com/giannpelle/roll-and-rake/blob/main/img/env_v0_run.png)
 
 ## Installation
 
