@@ -1,0 +1,555 @@
+{
+    "sections": [
+        {
+            "name": "Harvick",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 12,
+            "row_lengths":
+            [
+                3,
+                3,
+                3,
+                3
+            ],
+            "min_ticks_to_fullfill_row": 3,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Orange",
+                        "Orange",
+                        "Orange"
+                    ],
+                    "condition": "Consecutive"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "PlusOneBrown",
+                    "value": [0],
+                    "location": 4
+                },
+                {
+                    "type": "HazelnutGreen",
+                    "value": [0],
+                    "location": 9
+                },
+                {
+                    "type": "Points",
+                    "value": [4],
+                    "location": 1
+                },
+                {
+                    "type": "Points",
+                    "value": [6],
+                    "location": 4
+                },
+                {
+                    "type": "Points",
+                    "value": [8],
+                    "location": 7
+                },
+                {
+                    "type": "Points",
+                    "value": [8],
+                    "location": 10
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "Vertical"
+        },
+        {
+            "name": "Busch",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 12,
+            "row_lengths":
+            [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "min_ticks_to_fullfill_row": 2,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Orange",
+                        "Brown"
+                    ],
+                    "condition": "SameValue"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "HazelnutBrown",
+                    "value": [0],
+                    "location": 9
+                },
+                {
+                    "type": "Points",
+                    "value": [8],
+                    "location": 5
+                },
+                {
+                    "type": "Points",
+                    "value": [8],
+                    "location": 11
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "Horizontal"
+        },
+        {
+            "name": "Newman",
+            "tick_strategy": "IrregularTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 6,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Green"
+                    ],
+                    "condition": "NoCondition"
+                }
+            ],
+            "tick_conditions": [
+                "IsEqualToOne",
+                "IsEqualToTwo",
+                "IsEqualToThree",
+                "IsEqualToFour",
+                "IsEqualToFive",
+                "IsEqualToSix"
+            ],
+            "bonuses": [
+                {
+                    "type": "SetCollection",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        6,
+                        10,
+                        15,
+                        25
+                    ],
+                    "location": 0
+                },
+                {
+                    "type": "SetCollection",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        6,
+                        10,
+                        15,
+                        25
+                    ],
+                    "location": 1
+                },
+                {
+                    "type": "SetCollection",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        6,
+                        10,
+                        15,
+                        25
+                    ],
+                    "location": 2
+                },
+                {
+                    "type": "SetCollection",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        6,
+                        10,
+                        15,
+                        25
+                    ],
+                    "location": 3
+                },
+                {
+                    "type": "SetCollection",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        6,
+                        10,
+                        15,
+                        25
+                    ],
+                    "location": 4
+                },
+                {
+                    "type": "SetCollection",
+                    "value": [
+                        0,
+                        1,
+                        3,
+                        6,
+                        10,
+                        15,
+                        25
+                    ],
+                    "location": 5
+                }
+            ],
+            "scoring_type": "SetCollection",
+            "render_type": "Irregular"
+        },
+        {
+            "name": "Johnson",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 18,
+            "row_lengths":
+            [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "min_ticks_to_fullfill_row": 2,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Green",
+                        "Brown"
+                    ],
+                    "condition": "SameValue"
+                },
+                {
+                    "colors": [
+                        "Green",
+                        "Brown",
+                        "Brown"
+                    ],
+                    "condition": "SameValue"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "HazelnutGreen",
+                    "value": [0],
+                    "location": 2
+                },
+                {
+                    "type": "LargeExtraPoints",
+                    "value": [5],
+                    "location": 5
+                },
+                {
+                    "type": "LargeExtraPoints",
+                    "value": [5],
+                    "location": 8
+                },
+                {
+                    "type": "HazelnutGreen",
+                    "value": [0],
+                    "location": 11
+                },
+                {
+                    "type": "LargeExtraPoints",
+                    "value": [5],
+                    "location": 14
+                },
+                {
+                    "type": "LargeExtraPoints",
+                    "value": [5],
+                    "location": 17
+                },
+                {
+                    "type": "Points",
+                    "value": [15],
+                    "location": 7
+                },
+                {
+                    "type": "Points",
+                    "value": [10],
+                    "location": 16
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "HorizontalShared"
+        },
+        {
+            "name": "Suarez",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 14,
+            "row_lengths":
+            [
+                3,
+                3,
+                3,
+                3,
+                2
+            ],
+            "min_ticks_to_fullfill_row": 2,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Orange",
+                        "Orange"
+                    ],
+                    "condition": "SameValue"
+                },
+                {
+                    "colors": [
+                        "Orange",
+                        "Orange",
+                        "Orange"
+                    ],
+                    "condition": "SameValue"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "SmallExtraPoints",
+                    "value": [2],
+                    "location": 2
+                },
+                {
+                    "type": "PlusOneGreen",
+                    "value": [0],
+                    "location": 3
+                },
+                {
+                    "type": "MediumExtraPoints",
+                    "value": [3],
+                    "location": 5
+                },
+                {
+                    "type": "HazelnutBrown",
+                    "value": [0],
+                    "location": 8
+                },
+                {
+                    "type": "HazelnutGreen",
+                    "value": [0],
+                    "location": 11
+                },
+                {
+                    "type": "Points",
+                    "value": [8],
+                    "location": 4
+                },
+                {
+                    "type": "Points",
+                    "value": [7],
+                    "location": 7
+                },
+                {
+                    "type": "Points",
+                    "value": [6],
+                    "location": 10
+                },
+                {
+                    "type": "Points",
+                    "value": [5],
+                    "location": 13
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "Vertical"
+        },
+        {
+            "name": "Earnhardt",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 10,
+            "row_lengths":
+            [
+                2,
+                2,
+                2,
+                2,
+                2
+            ],
+            "min_ticks_to_fullfill_row": 2,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Brown",
+                        "Brown"
+                    ],
+                    "condition": "SameValue"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "PlusOneOrange",
+                    "value": [0],
+                    "location": 4
+                },
+                {
+                    "type": "HazelnutOrange",
+                    "value": [0],
+                    "location": 9
+                },
+                {
+                    "type": "Points",
+                    "value": [18],
+                    "location": 5
+                },
+                {
+                    "type": "Points",
+                    "value": [12],
+                    "location": 9
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "Horizontal"
+        },
+        {
+            "name": "Patrick",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 18,
+            "row_lengths":
+            [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "min_ticks_to_fullfill_row": 2,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Green",
+                        "Orange"
+                    ],
+                    "condition": "SameValue"
+                },
+                {
+                    "colors": [
+                        "Green",
+                        "Orange",
+                        "Orange"
+                    ],
+                    "condition": "SameValue"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "HazelnutOrange",
+                    "value": [0],
+                    "location": 2
+                },
+                {
+                    "type": "SmallExtraPoints",
+                    "value": [2],
+                    "location": 5
+                },
+                {
+                    "type": "MediumExtraPoints",
+                    "value": [3],
+                    "location": 8
+                },
+                {
+                    "type": "HazelnutOrange",
+                    "value": [0],
+                    "location": 11
+                },
+                {
+                    "type": "SmallExtraPoints",
+                    "value": [2],
+                    "location": 14
+                },
+                {
+                    "type": "MediumExtraPoints",
+                    "value": [3],
+                    "location": 17
+                },
+                {
+                    "type": "Points",
+                    "value": [12],
+                    "location": 7
+                },
+                {
+                    "type": "Points",
+                    "value": [16],
+                    "location": 16
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "HorizontalShared"
+        },
+        {
+            "name": "Hamlin",
+            "tick_strategy": "ContinuosTick",
+            "dice_to_tick_converter": "OneTickPerDie",
+            "ticks_number": 15,
+            "row_lengths":
+            [
+                3,
+                3,
+                3,
+                3,
+                3
+            ],
+            "min_ticks_to_fullfill_row": 3,
+            "dice_requirements": [
+                {
+                    "colors": [
+                        "Orange",
+                        "Brown",
+                        "Green"
+                    ],
+                    "condition": "ConsecutiveBrownGreenOrange"
+                },
+                {
+                    "colors": [
+                        "Orange",
+                        "Brown",
+                        "Green"
+                    ],
+                    "condition": "SameValue"
+                }
+            ],
+            "bonuses": [
+                {
+                    "type": "PlusOneGreen",
+                    "value": [0],
+                    "location": 3
+                },
+                {
+                    "type": "PlusOneBrown",
+                    "value": [0],
+                    "location": 10
+                },
+                {
+                    "type": "HazelnutBrown",
+                    "value": [0],
+                    "location": 12
+                },
+                {
+                    "type": "Points",
+                    "value": [18],
+                    "location": 8
+                },
+                {
+                    "type": "Points",
+                    "value": [12],
+                    "location": 14
+                }
+            ],
+            "scoring_type": "Basic",
+            "render_type": "Horizontal"
+        }
+    ]
+}

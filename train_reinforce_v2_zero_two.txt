@@ -1,0 +1,80 @@
+Episode 25000
+Last 10 episodes rewards:28, 28, 36, 22, 39Average reward for last 10 episodes 34.6
+Episode 50000
+Last 10 episodes rewards:36, 24, 21, 42, 37Average reward for last 10 episodes 33.2
+Episode 75000
+Last 10 episodes rewards:28, 21, 44, 30, 35Average reward for last 10 episodes 37.2
+Episode 100000
+Last 10 episodes rewards:24, 44, 65, 16, 41Average reward for last 10 episodes 40
+Episode 125000
+Last 10 episodes rewards:34, 23, 54, 24, 31Average reward for last 10 episodes 29.5
+Episode 150000
+Last 10 episodes rewards:15, 44, 25, 34, 40Average reward for last 10 episodes 29.3
+Episode 175000
+Last 10 episodes rewards:27, 45, 7, 21, 41Average reward for last 10 episodes 33.1
+Episode 200000
+Last 10 episodes rewards:40, 42, 62, 29, 33Average reward for last 10 episodes 35.5
+Episode 225000
+Last 10 episodes rewards:22, 29, 18, 40, 51Average reward for last 10 episodes 31.8
+Episode 250000
+Last 10 episodes rewards:24, 68, 62, 35, 24Average reward for last 10 episodes 35.1
+Episode 275000
+Last 10 episodes rewards:33, 56, 44, 30, 14Average reward for last 10 episodes 34.8
+Episode 300000
+Last 10 episodes rewards:21, 56, 25, 25, 31Average reward for last 10 episodes 31.4
+Episode 325000
+Last 10 episodes rewards:43, 42, 42, 35, 20Average reward for last 10 episodes 35.3
+Episode 350000
+Last 10 episodes rewards:27, 25, 29, 48, 62Average reward for last 10 episodes 34.5
+Episode 375000
+Last 10 episodes rewards:49, 18, 56, 19, 21Average reward for last 10 episodes 28.9
+Episode 400000
+Last 10 episodes rewards:10, 58, 44, 62, 36Average reward for last 10 episodes 32.9
+Episode 425000
+Last 10 episodes rewards:37, 31, 42, 49, 20Average reward for last 10 episodes 34.2
+Episode 450000
+Last 10 episodes rewards:36, 54, 55, 24, 46Average reward for last 10 episodes 38.1
+Episode 475000
+Last 10 episodes rewards:14, 47, 15, 22, 31Average reward for last 10 episodes 33
+Episode 500000
+Last 10 episodes rewards:47, 18, 36, 36, 14Average reward for last 10 episodes 28.5
+Episode 525000
+Last 10 episodes rewards:44, 24, 7, 35, 32Average reward for last 10 episodes 35.2
+Episode 550000
+Last 10 episodes rewards:40, 15, 31, 36, 37Average reward for last 10 episodes 31.6
+Episode 575000
+Last 10 episodes rewards:35, 14, 21, 22, 25Average reward for last 10 episodes 25.8
+Episode 600000
+Last 10 episodes rewards:19, 29, 30, 32, 27Average reward for last 10 episodes 30
+Episode 625000
+Last 10 episodes rewards:35, 48, 32, 30, 53Average reward for last 10 episodes 38.5
+Episode 650000
+Last 10 episodes rewards:54, 45, 52, 29, 39Average reward for last 10 episodes 45.7
+Episode 675000
+Last 10 episodes rewards:30, 32, 57, 24, 28Average reward for last 10 episodes 33
+Episode 700000
+Last 10 episodes rewards:31, 49, 7, 31, 15Average reward for last 10 episodes 27.7
+Episode 725000
+Last 10 episodes rewards:37, 44, 36, 28, 23Average reward for last 10 episodes 33.9
+Episode 750000
+Last 10 episodes rewards:36, 36, 39, 18, 48Average reward for last 10 episodes 39.6
+Episode 775000
+Last 10 episodes rewards:59, 15, 34, 51, 29Average reward for last 10 episodes 33.7
+Episode 800000
+Last 10 episodes rewards:29, 44, 18, 11, 14Average reward for last 10 episodes 28.2
+Episode 825000
+Last 10 episodes rewards:48, 18, 15, 45, 20Average reward for last 10 episodes 31
+Episode 850000
+Last 10 episodes rewards:31, 44, 48, 35, 44Average reward for last 10 episodes 35.2
+Episode 875000
+Last 10 episodes rewards:44, 31, 50, 28, 10Average reward for last 10 episodes 29.8
+Episode 900000
+Last 10 episodes rewards:15, 41, 32, 27, 21Average reward for last 10 episodes 26.7
+Episode 925000
+Last 10 episodes rewards:24, 43, 32, 33, 31Average reward for last 10 episodes 31.3
+Episode 950000
+Last 10 episodes rewards:38, 22, 18, 40, 51Average reward for last 10 episodes 30.6
+Episode 975000
+Last 10 episodes rewards:47, 46, 11, 46, 41Average reward for last 10 episodes 38.1
+Episode 1000000
+Last 10 episodes rewards:38, 16, 36, 39, 27Average reward for last 10 episodes 31.1

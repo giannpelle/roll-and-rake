@@ -1,0 +1,20 @@
+#!/bin/bash
+#SBATCH --job-name=train_d3qn
+#SBATCH --output=train_d3qn.out
+#SBATCH --error=train_d3qn.err
+#SBATCH --partition gpu
+#SBATCH --ntasks-per-node=4 # use four cores
+#SBATCH --nodes=1
+#SBATCH --gres=gpu:1
+
+module load cuda-11.2.1
+
+nvidia-smi
+
+module load anaconda3
+
+source /opt/packages/anaconda3/etc/profile.d/conda.sh
+
+conda activate master-thesis # this enviroment must already exist
+
+python3 DuelingPerDoubleDQN_agent_v0_zero_two.py >> server_output.txt

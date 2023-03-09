@@ -1,0 +1,300 @@
+running episode: 100
+last ten training rewards: [27.0, 32.0, 41.0, 19.0, 21.0, 35.0, 16.0, 22.0, 44.0, 39.0]
+last 100 rewards mean: 30.13131313131313
+running episode: 200
+last ten training rewards: [40.0, 38.0, 40.0, 31.0, 28.0, 28.0, 55.0, 29.0, 48.0, 21.0]
+last 100 rewards mean: 31.1
+running episode: 300
+last ten training rewards: [34.0, 25.0, 43.0, 67.0, 35.0, 27.0, 36.0, 16.0, 48.0, 39.0]
+last 100 rewards mean: 32.59
+running episode: 400
+last ten training rewards: [37.0, 12.0, 35.0, 26.0, 17.0, 55.0, 44.0, 32.0, 25.0, 32.0]
+last 100 rewards mean: 31.81
+running episode: 500
+last ten training rewards: [15.0, 56.0, 45.0, 39.0, 30.0, 40.0, 35.0, 37.0, 17.0, 19.0]
+last 100 rewards mean: 32.58
+running episode: 600
+last ten training rewards: [32.0, 36.0, 31.0, 38.0, 65.0, 23.0, 34.0, 38.0, 50.0, 23.0]
+last 100 rewards mean: 33.35
+running episode: 700
+last ten training rewards: [29.0, 51.0, 21.0, 50.0, 42.0, 20.0, 29.0, 19.0, 37.0, 18.0]
+last 100 rewards mean: 32.71
+running episode: 800
+last ten training rewards: [26.0, 66.0, 40.0, 60.0, 31.0, 28.0, 28.0, 28.0, 42.0, 33.0]
+last 100 rewards mean: 33.34
+running episode: 900
+last ten training rewards: [21.0, 31.0, 29.0, 24.0, 44.0, 26.0, 27.0, 28.0, 38.0, 54.0]
+last 100 rewards mean: 35.01
+running episode: 1000
+last ten training rewards: [47.0, 39.0, 39.0, 22.0, 55.0, 48.0, 25.0, 54.0, 21.0, 22.0]
+last 100 rewards mean: 35.59
+running episode: 1100
+last ten training rewards: [35.0, 54.0, 21.0, 44.0, 26.0, 35.0, 47.0, 18.0, 24.0, 38.0]
+last 100 rewards mean: 36.32
+running episode: 1200
+last ten training rewards: [26.0, 39.0, 33.0, 35.0, 34.0, 37.0, 30.0, 73.0, 46.0, 39.0]
+last 100 rewards mean: 36.41
+running episode: 1300
+last ten training rewards: [32.0, 34.0, 27.0, 46.0, 59.0, 42.0, 15.0, 32.0, 55.0, 23.0]
+last 100 rewards mean: 37.54
+running episode: 1400
+last ten training rewards: [25.0, 45.0, 50.0, 19.0, 14.0, 28.0, 28.0, 27.0, 29.0, 47.0]
+last 100 rewards mean: 35.6
+running episode: 1500
+last ten training rewards: [43.0, 44.0, 55.0, 44.0, 35.0, 45.0, 40.0, 30.0, 43.0, 34.0]
+last 100 rewards mean: 39.41
+running episode: 1600
+last ten training rewards: [26.0, 53.0, 35.0, 21.0, 39.0, 34.0, 31.0, 42.0, 60.0, 25.0]
+last 100 rewards mean: 38.99
+running episode: 1700
+last ten training rewards: [38.0, 54.0, 36.0, 53.0, 27.0, 25.0, 21.0, 27.0, 65.0, 41.0]
+last 100 rewards mean: 37.8
+running episode: 1800
+last ten training rewards: [53.0, 34.0, 41.0, 43.0, 40.0, 26.0, 51.0, 11.0, 34.0, 48.0]
+last 100 rewards mean: 40.82
+running episode: 1900
+last ten training rewards: [25.0, 42.0, 61.0, 15.0, 53.0, 29.0, 57.0, 42.0, 51.0, 14.0]
+last 100 rewards mean: 38.61
+running episode: 2000
+last ten training rewards: [45.0, 27.0, 38.0, 49.0, 38.0, 60.0, 25.0, 43.0, 34.0, 59.0]
+last 100 rewards mean: 40.58
+running episode: 2100
+last ten training rewards: [62.0, 40.0, 57.0, 31.0, 33.0, 46.0, 26.0, 53.0, 49.0, 19.0]
+last 100 rewards mean: 39.64
+running episode: 2200
+last ten training rewards: [25.0, 25.0, 26.0, 33.0, 47.0, 46.0, 18.0, 29.0, 50.0, 45.0]
+last 100 rewards mean: 39.35
+running episode: 2300
+last ten training rewards: [40.0, 44.0, 44.0, 42.0, 65.0, 55.0, 29.0, 50.0, 38.0, 78.0]
+last 100 rewards mean: 42.08
+running episode: 2400
+last ten training rewards: [23.0, 44.0, 65.0, 24.0, 33.0, 35.0, 41.0, 67.0, 41.0, 51.0]
+last 100 rewards mean: 40.59
+running episode: 2500
+last ten training rewards: [37.0, 40.0, 55.0, 75.0, 31.0, 48.0, 42.0, 59.0, 54.0, 29.0]
+last 100 rewards mean: 42.03
+running episode: 2600
+last ten training rewards: [35.0, 39.0, 58.0, 35.0, 36.0, 19.0, 37.0, 23.0, 26.0, 18.0]
+last 100 rewards mean: 41.04
+running episode: 2700
+last ten training rewards: [35.0, 69.0, 45.0, 16.0, 36.0, 73.0, 57.0, 35.0, 39.0, 41.0]
+last 100 rewards mean: 42.27
+running episode: 2800
+last ten training rewards: [36.0, 59.0, 48.0, 26.0, 41.0, 43.0, 49.0, 33.0, 50.0, 74.0]
+last 100 rewards mean: 45.37
+running episode: 2900
+last ten training rewards: [28.0, 36.0, 46.0, 54.0, 32.0, 35.0, 37.0, 66.0, 31.0, 80.0]
+last 100 rewards mean: 44.14
+running episode: 3000
+last ten training rewards: [47.0, 47.0, 32.0, 56.0, 49.0, 42.0, 41.0, 66.0, 48.0, 61.0]
+last 100 rewards mean: 45.81
+running episode: 3100
+last ten training rewards: [29.0, 50.0, 22.0, 44.0, 23.0, 66.0, 46.0, 44.0, 34.0, 35.0]
+last 100 rewards mean: 43.24
+running episode: 3200
+last ten training rewards: [25.0, 32.0, 46.0, 24.0, 41.0, 84.0, 44.0, 62.0, 83.0, 48.0]
+last 100 rewards mean: 44.15
+running episode: 3300
+last ten training rewards: [43.0, 62.0, 45.0, 35.0, 45.0, 40.0, 54.0, 62.0, 78.0, 43.0]
+last 100 rewards mean: 44.44
+running episode: 3400
+last ten training rewards: [29.0, 79.0, 55.0, 32.0, 48.0, 18.0, 54.0, 56.0, 52.0, 28.0]
+last 100 rewards mean: 46.27
+running episode: 3500
+last ten training rewards: [32.0, 47.0, 13.0, 59.0, 45.0, 26.0, 65.0, 38.0, 35.0, 61.0]
+last 100 rewards mean: 44.31
+running episode: 3600
+last ten training rewards: [55.0, 39.0, 53.0, 55.0, 41.0, 42.0, 54.0, 61.0, 47.0, 51.0]
+last 100 rewards mean: 46.47
+running episode: 3700
+last ten training rewards: [34.0, 56.0, 61.0, 54.0, 64.0, 51.0, 55.0, 29.0, 42.0, 42.0]
+last 100 rewards mean: 48.52
+running episode: 3800
+last ten training rewards: [65.0, 68.0, 56.0, 68.0, 31.0, 47.0, 21.0, 58.0, 42.0, 42.0]
+last 100 rewards mean: 47.84
+running episode: 3900
+last ten training rewards: [50.0, 57.0, 46.0, 49.0, 48.0, 46.0, 54.0, 41.0, 54.0, 68.0]
+last 100 rewards mean: 46.26
+running episode: 4000
+last ten training rewards: [59.0, 53.0, 58.0, 71.0, 48.0, 50.0, 52.0, 44.0, 85.0, 55.0]
+last 100 rewards mean: 50.69
+running episode: 4100
+last ten training rewards: [47.0, 54.0, 38.0, 26.0, 34.0, 43.0, 29.0, 50.0, 63.0, 80.0]
+last 100 rewards mean: 49.31
+running episode: 4200
+last ten training rewards: [45.0, 45.0, 35.0, 63.0, 62.0, 38.0, 41.0, 49.0, 48.0, 29.0]
+last 100 rewards mean: 49.19
+running episode: 4300
+last ten training rewards: [62.0, 51.0, 60.0, 14.0, 42.0, 62.0, 35.0, 61.0, 63.0, 39.0]
+last 100 rewards mean: 51.29
+running episode: 4400
+last ten training rewards: [74.0, 35.0, 47.0, 79.0, 63.0, 71.0, 62.0, 59.0, 51.0, 54.0]
+last 100 rewards mean: 51.76
+running episode: 4500
+last ten training rewards: [47.0, 66.0, 46.0, 60.0, 59.0, 51.0, 38.0, 41.0, 53.0, 39.0]
+last 100 rewards mean: 51.22
+running episode: 4600
+last ten training rewards: [48.0, 67.0, 73.0, 33.0, 32.0, 66.0, 49.0, 22.0, 43.0, 55.0]
+last 100 rewards mean: 51.52
+running episode: 4700
+last ten training rewards: [46.0, 62.0, 50.0, 45.0, 78.0, 52.0, 47.0, 65.0, 45.0, 69.0]
+last 100 rewards mean: 52.14
+running episode: 4800
+last ten training rewards: [60.0, 49.0, 37.0, 80.0, 78.0, 69.0, 45.0, 61.0, 59.0, 50.0]
+last 100 rewards mean: 50.76
+running episode: 4900
+last ten training rewards: [44.0, 54.0, 70.0, 62.0, 56.0, 49.0, 36.0, 53.0, 38.0, 52.0]
+last 100 rewards mean: 49.47
+running episode: 5000
+last ten training rewards: [59.0, 81.0, 44.0, 41.0, 61.0, 37.0, 23.0, 53.0, 48.0, 61.0]
+last 100 rewards mean: 50.69
+running episode: 5100
+last ten training rewards: [53.0, 81.0, 51.0, 42.0, 74.0, 80.0, 69.0, 60.0, 45.0, 38.0]
+last 100 rewards mean: 52.83
+running episode: 5200
+last ten training rewards: [57.0, 51.0, 45.0, 91.0, 51.0, 39.0, 69.0, 46.0, 43.0, 71.0]
+last 100 rewards mean: 52.55
+running episode: 5300
+last ten training rewards: [54.0, 39.0, 52.0, 63.0, 54.0, 47.0, 55.0, 53.0, 61.0, 47.0]
+last 100 rewards mean: 53.16
+running episode: 5400
+last ten training rewards: [62.0, 43.0, 54.0, 20.0, 50.0, 60.0, 47.0, 56.0, 64.0, 55.0]
+last 100 rewards mean: 50.98
+running episode: 5500
+last ten training rewards: [44.0, 47.0, 50.0, 78.0, 56.0, 55.0, 68.0, 36.0, 65.0, 86.0]
+last 100 rewards mean: 52.06
+running episode: 5600
+last ten training rewards: [62.0, 41.0, 55.0, 50.0, 72.0, 65.0, 55.0, 55.0, 43.0, 25.0]
+last 100 rewards mean: 52.64
+running episode: 5700
+last ten training rewards: [37.0, 44.0, 62.0, 54.0, 54.0, 55.0, 64.0, 52.0, 50.0, 32.0]
+last 100 rewards mean: 54.65
+running episode: 5800
+last ten training rewards: [39.0, 47.0, 65.0, 51.0, 51.0, 33.0, 38.0, 54.0, 60.0, 71.0]
+last 100 rewards mean: 53.94
+running episode: 5900
+last ten training rewards: [52.0, 60.0, 66.0, 32.0, 51.0, 56.0, 59.0, 71.0, 55.0, 53.0]
+last 100 rewards mean: 55.06
+running episode: 6000
+last ten training rewards: [43.0, 54.0, 45.0, 51.0, 68.0, 52.0, 61.0, 49.0, 48.0, 69.0]
+last 100 rewards mean: 54.56
+running episode: 6100
+last ten training rewards: [67.0, 38.0, 53.0, 71.0, 60.0, 63.0, 44.0, 34.0, 48.0, 43.0]
+last 100 rewards mean: 57.35
+running episode: 6200
+last ten training rewards: [92.0, 39.0, 74.0, 80.0, 33.0, 33.0, 75.0, 36.0, 46.0, 64.0]
+last 100 rewards mean: 54.41
+running episode: 6300
+last ten training rewards: [63.0, 81.0, 56.0, 50.0, 41.0, 85.0, 62.0, 64.0, 57.0, 66.0]
+last 100 rewards mean: 55.77
+running episode: 6400
+last ten training rewards: [92.0, 74.0, 50.0, 66.0, 54.0, 55.0, 60.0, 59.0, 46.0, 57.0]
+last 100 rewards mean: 54.8
+running episode: 6500
+last ten training rewards: [54.0, 78.0, 29.0, 42.0, 50.0, 72.0, 50.0, 40.0, 60.0, 62.0]
+last 100 rewards mean: 55.97
+running episode: 6600
+last ten training rewards: [69.0, 49.0, 55.0, 73.0, 74.0, 46.0, 26.0, 69.0, 55.0, 38.0]
+last 100 rewards mean: 55.98
+running episode: 6700
+last ten training rewards: [44.0, 66.0, 58.0, 51.0, 46.0, 56.0, 42.0, 60.0, 36.0, 51.0]
+last 100 rewards mean: 54.03
+running episode: 6800
+last ten training rewards: [40.0, 73.0, 62.0, 47.0, 60.0, 63.0, 50.0, 43.0, 72.0, 97.0]
+last 100 rewards mean: 57.96
+running episode: 6900
+last ten training rewards: [69.0, 63.0, 54.0, 69.0, 40.0, 66.0, 49.0, 42.0, 49.0, 47.0]
+last 100 rewards mean: 56.51
+running episode: 7000
+last ten training rewards: [78.0, 70.0, 58.0, 63.0, 51.0, 50.0, 46.0, 43.0, 58.0, 31.0]
+last 100 rewards mean: 57.09
+running episode: 7100
+last ten training rewards: [35.0, 44.0, 40.0, 41.0, 72.0, 55.0, 83.0, 59.0, 60.0, 55.0]
+last 100 rewards mean: 57.85
+running episode: 7200
+last ten training rewards: [64.0, 50.0, 52.0, 63.0, 69.0, 77.0, 58.0, 55.0, 56.0, 97.0]
+last 100 rewards mean: 57.74
+running episode: 7300
+last ten training rewards: [61.0, 72.0, 43.0, 50.0, 79.0, 42.0, 46.0, 46.0, 57.0, 97.0]
+last 100 rewards mean: 56.8
+running episode: 7400
+last ten training rewards: [46.0, 55.0, 69.0, 25.0, 45.0, 52.0, 60.0, 62.0, 51.0, 74.0]
+last 100 rewards mean: 60.37
+running episode: 7500
+last ten training rewards: [38.0, 51.0, 54.0, 67.0, 59.0, 63.0, 63.0, 57.0, 16.0, 45.0]
+last 100 rewards mean: 57.54
+running episode: 7600
+last ten training rewards: [75.0, 37.0, 75.0, 29.0, 71.0, 62.0, 64.0, 79.0, 61.0, 37.0]
+last 100 rewards mean: 58.86
+running episode: 7700
+last ten training rewards: [82.0, 51.0, 100.0, 43.0, 84.0, 70.0, 54.0, 49.0, 54.0, 58.0]
+last 100 rewards mean: 58.92
+running episode: 7800
+last ten training rewards: [47.0, 77.0, 29.0, 59.0, 77.0, 62.0, 54.0, 67.0, 59.0, 68.0]
+last 100 rewards mean: 59.01
+running episode: 7900
+last ten training rewards: [44.0, 58.0, 59.0, 73.0, 73.0, 60.0, 46.0, 66.0, 69.0, 32.0]
+last 100 rewards mean: 58.21
+running episode: 8000
+last ten training rewards: [77.0, 80.0, 59.0, 58.0, 61.0, 49.0, 44.0, 71.0, 70.0, 65.0]
+last 100 rewards mean: 60.05
+running episode: 8100
+last ten training rewards: [52.0, 57.0, 45.0, 41.0, 46.0, 67.0, 77.0, 50.0, 77.0, 55.0]
+last 100 rewards mean: 58.32
+running episode: 8200
+last ten training rewards: [51.0, 65.0, 61.0, 93.0, 63.0, 72.0, 80.0, 78.0, 78.0, 69.0]
+last 100 rewards mean: 60.08
+running episode: 8300
+last ten training rewards: [66.0, 54.0, 60.0, 64.0, 63.0, 59.0, 57.0, 54.0, 68.0, 49.0]
+last 100 rewards mean: 58.23
+running episode: 8400
+last ten training rewards: [60.0, 78.0, 63.0, 46.0, 71.0, 50.0, 68.0, 41.0, 43.0, 59.0]
+last 100 rewards mean: 58.94
+running episode: 8500
+last ten training rewards: [51.0, 84.0, 62.0, 77.0, 57.0, 59.0, 80.0, 61.0, 82.0, 55.0]
+last 100 rewards mean: 60.44
+running episode: 8600
+last ten training rewards: [65.0, 51.0, 59.0, 70.0, 40.0, 52.0, 64.0, 50.0, 39.0, 58.0]
+last 100 rewards mean: 57.39
+running episode: 8700
+last ten training rewards: [48.0, 54.0, 43.0, 60.0, 40.0, 66.0, 60.0, 26.0, 82.0, 51.0]
+last 100 rewards mean: 57.88
+running episode: 8800
+last ten training rewards: [43.0, 64.0, 54.0, 56.0, 50.0, 60.0, 51.0, 80.0, 50.0, 57.0]
+last 100 rewards mean: 59.5
+running episode: 100
+last ten training rewards: [50.0, 59.0, 53.0, 50.0, 54.0, 55.0, 97.0, 68.0, 36.0, 81.0]
+last 100 rewards mean: 60.5959595959596
+running episode: 200
+last ten training rewards: [52.0, 91.0, 56.0, 51.0, 55.0, 48.0, 83.0, 73.0, 41.0, 51.0]
+last 100 rewards mean: 61.02
+running episode: 300
+last ten training rewards: [50.0, 50.0, 60.0, 53.0, 71.0, 77.0, 55.0, 60.0, 47.0, 55.0]
+last 100 rewards mean: 59.3
+running episode: 400
+last ten training rewards: [68.0, 71.0, 67.0, 75.0, 66.0, 52.0, 60.0, 48.0, 64.0, 55.0]
+last 100 rewards mean: 60.21
+running episode: 500
+last ten training rewards: [52.0, 60.0, 81.0, 65.0, 49.0, 58.0, 59.0, 50.0, 48.0, 57.0]
+last 100 rewards mean: 57.23
+running episode: 600
+last ten training rewards: [63.0, 59.0, 30.0, 56.0, 72.0, 68.0, 68.0, 55.0, 51.0, 49.0]
+last 100 rewards mean: 58.59
+running episode: 700
+last ten training rewards: [51.0, 33.0, 98.0, 61.0, 64.0, 50.0, 45.0, 64.0, 51.0, 77.0]
+last 100 rewards mean: 56.53
+running episode: 800
+last ten training rewards: [60.0, 61.0, 43.0, 57.0, 37.0, 48.0, 59.0, 44.0, 59.0, 47.0]
+last 100 rewards mean: 58.88
+running episode: 900
+last ten training rewards: [54.0, 82.0, 63.0, 67.0, 73.0, 51.0, 79.0, 36.0, 61.0, 87.0]
+last 100 rewards mean: 58.54
+running episode: 1000
+last ten training rewards: [52.0, 64.0, 43.0, 65.0, 55.0, 41.0, 55.0, 70.0, 64.0, 68.0]
+last 100 rewards mean: 55.84
+running episode: 1100
+last ten training rewards: [50.0, 72.0, 73.0, 55.0, 59.0, 40.0, 35.0, 68.0, 71.0, 68.0]
+last 100 rewards mean: 60.63
+running episode: 1200
+last ten training rewards: [78.0, 56.0, 47.0, 68.0, 66.0, 54.0, 75.0, 55.0, 55.0, 88.0]
+last 100 rewards mean: 59.24
